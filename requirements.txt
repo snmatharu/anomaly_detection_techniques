@@ -1,0 +1,10 @@
+﻿Pathlib
+plotly
+numpy
+pandas
+json
+sklearn
+statsmodels
+itertools
+torch 
+tqdm
