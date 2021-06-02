@@ -8,3 +8,4 @@ statsmodels
 itertools
 torch 
 tqdm
+tabulate
